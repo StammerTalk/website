@@ -22,7 +22,7 @@ title: StammerTalk
 email: kouchishuo@gmail.com
 logo: /assets/img/stammertalk.png
 description: >- # this means to ignore newlines until "baseurl:"
-  fake it till you make it.
+  Podcast, online resources, self-help groups and research about stuttering in Mandarin and English.
 domain: stammertalk.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stammertalk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
