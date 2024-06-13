@@ -3,6 +3,8 @@ layout: default
 title: About us
 ---
 
+StammerTalk was founded in 2019 by a group of Mandarin-speaking individuals who stutter (PWS) living abroad. Its initial activity was creating a podcast to raise awareness about stuttering in Mainland China. Since then, it has expanded to offer online resources, including videos on stuttering management strategies, self-help groups, and academic research activities. StammerTalk has co-hosted the World Stuttering Awareness Day online events for Mandarin-speaking PWS in 2021, 2022, and 2023.
+
 ## Members
 
 * Rong Gong: Vienna, Austria, Speech technology researcher. 
