@@ -9,7 +9,7 @@ title: Projects
 
 We interview people who stutter (PWS), speech-language therapists (SLPs), and stuttering researchers to foster open discussions about stuttering, inspire PWS with real-life experiences, and promote scientific understanding of stuttering. Our audio podcast interviews are available on Spotify and 喜马拉雅, and our video podcast interviews can be accessed on Bilibili.
 
-* Audio: [Spotify](https://open.spotify.com/show/47tjgK5ZIRtuFXMcIpWZ48){:target="_blank"} or [喜马拉雅](https://m.ximalaya.com/album/38544271){:target="_blank"}
+* Audio: [Spotify](https://open.spotify.com/show/6F9hxUKIRMhBXiIu3TBD5F){:target="_blank"} or [喜马拉雅](https://m.ximalaya.com/album/38544271){:target="_blank"}
 * Video: [bilibili](https://space.bilibili.com/1027462501/channel/collectiondetail?sid=114276){:target="_blank"}
 
 ### Evidence-based stuttering resources
