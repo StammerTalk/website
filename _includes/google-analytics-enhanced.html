@@ -1,0 +1,48 @@
+<!-- Enhanced Google Analytics tracking for individual pages -->
+{% if site.google_analytics %}
+<script>
+  // Enhanced ecommerce tracking (optional)
+  gtag('config', '{{ site.google_analytics }}', {
+    page_title: '{{ page.title | default: site.title }}',
+    page_location: '{{ page.url | absolute_url }}',
+    content_group1: '{{ page.categories | first | default: "General" }}',
+    content_group2: '{{ page.layout | default: "default" }}',
+    custom_map: {
+      'dimension1': 'page_category',
+      'dimension2': 'page_type'
+    }
+  });
+
+  // Track page view with additional context
+  gtag('event', 'page_view', {
+    page_title: '{{ page.title | default: site.title }}',
+    page_location: '{{ page.url | absolute_url }}',
+    page_category: '{{ page.categories | first | default: "General" }}',
+    page_type: '{{ page.layout | default: "default" }}'
+  });
+
+  // Track outbound links
+  document.addEventListener('click', function(event) {
+    var link = event.target.closest('a');
+    if (link && link.hostname !== window.location.hostname) {
+      gtag('event', 'click', {
+        event_category: 'outbound',
+        event_label: link.href,
+        transport_type: 'beacon'
+      });
+    }
+  });
+
+  // Track file downloads
+  document.addEventListener('click', function(event) {
+    var link = event.target.closest('a');
+    if (link && link.href.match(/\.(pdf|doc|docx|xls|xlsx|ppt|pptx|zip|rar|mp3|mp4|avi|mov)$/i)) {
+      gtag('event', 'file_download', {
+        event_category: 'download',
+        event_label: link.href,
+        transport_type: 'beacon'
+      });
+    }
+  });
+</script>
+{% endif %}

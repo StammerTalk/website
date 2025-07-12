@@ -27,6 +27,9 @@ domain: stammertalk.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stammertalk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
+# Google Analytics
+google_analytics: "G-56HEVL1ETD" # Replace with your Google Analytics 4 Measurement ID
+
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
