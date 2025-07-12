@@ -10,7 +10,7 @@ We are thrilled to announce that the StammerTalk Mandarin Stuttered Speech Datas
 
 ## Dataset Overview
 
-The StammerTalk dataset represents a significant milestone in stuttering research, containing **43 hours of spontaneous conversations and reading of voice commands** by **66 Mandarin Chinese speakers who stutter**. This comprehensive dataset includes both unscripted conversations and dictation of 200 voice commands, providing valuable resources for automatic speech recognition and stuttering event detection research.
+The StammerTalk dataset represents a significant milestone in stuttering research, containing **43 hours of spontaneous conversations and reading of voice commands** by **64 Mandarin Chinese speakers who stutter**. This comprehensive dataset includes both unscripted conversations and dictation of 200 voice commands, providing valuable resources for automatic speech recognition and stuttering event detection research.
 
 **Note**: This publicly available dataset is a subset of the complete [AS-70 dataset](https://aishelltech.com/aishell_6a), as it includes only the data from participants who provided consent for public sharing. The full AS-70 dataset contains additional recordings that remain private due to differentiating consent agreements with participants.
 
