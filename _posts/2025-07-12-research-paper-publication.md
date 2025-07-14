@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Research Paper Published: 'Our Collective Voices' - The Social and Technical Values of StammerTalk Dataset"
-date: 2025-07-12 12:00:00 -0400
+date: 2025-07-13 12:00:00 -0400
 categories: [blog]
 tags: [research, paper, publication, facct, aimpower, collaboration, dataset, social-impact]
 ---
