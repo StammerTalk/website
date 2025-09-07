@@ -21,7 +21,11 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+  {% if site.tagline_line1 and site.tagline_line2 %}
+  <p>{{ site.tagline_line1 }}<br>{{ site.tagline_line2 }}</p>
+  {% else %}
+  <p>{{ site.description | default: site.github.project_tagline }}</p>
+  {% endif %}
 
         <p><a href="/index.html">News</a> | <a href="/pages/mission.html">Mission</a> | <a href="/pages/projects.html">Projects</a> | <a href="/pages/self-help.html">Self-help</a>  | <a href="/pages/aboutus.html">About us</a> | <a href="/pages/supportus.html">Support us</a> | <a href="/pages/contact.html">Contact</a></p>
 
