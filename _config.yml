@@ -18,11 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: StammerTalk
+title: Global Chinese Stuttering Association | Stammertalk
 email: kouchishuo@gmail.com
-logo: /assets/img/stammertalk.png
-description: >- # this means to ignore newlines until "baseurl:"
+logo: /assets/img/gcsa_stammertalk_logo.png
+description: >-
   Podcast, online resources, self-help groups and research about stuttering in Mandarin and English.
+  The Global Chinese Stuttering Association is a U.S. 501(c)(3) nonprofit organization.
 domain: stammertalk.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stammertalk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
