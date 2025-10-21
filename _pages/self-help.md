@@ -12,7 +12,7 @@ In self-help groups, we encourage PWS and parents to share their stuttering expe
 * Gain confidence and motivation from seeing other members who achieve their life and career goals with stuttering.
 * Learn the strategies and tips from other members and so much more ...
 
-StammerTalk currently host two online self-help groups:
+Global Chinese Stuttering Association, previously known as StammerTalk, currently host two online self-help groups:
 
 1. **Biweekly Mandarin-English self-help online meeting**
     - Host: Jia Bin, Michigan State University, U.S. PhD student in Communication Sciences & Disorders (CSD), World Stuttering Network (WSN) board member.

@@ -14,7 +14,7 @@ We interview people who stutter (PWS), speech-language therapists (SLPs), and st
 
 ### Evidence-based stuttering resources
 
-In Mainland China, PWS and parents of children who stutter are eager to access scientific techniques for managing stuttering, helping them better navigate daily challenges. These techniques range from classic methods such as fluency shaping and speech modification to modern approaches like Acceptance and Commitment Therapy. StammerTalk invites professional SLPs to present these techniques and translates relevant materials from collaborators.
+In Mainland China, PWS and parents of children who stutter are eager to access scientific techniques for managing stuttering, helping them better navigate daily challenges. These techniques range from classic methods such as fluency shaping and speech modification to modern approaches like Acceptance and Commitment Therapy. Global Chinese Stuttering Association (GCSA), previously known as StammerTalk, invites professional SLPs to present these techniques and translates relevant materials from collaborators.
 
 * [Stuttering handling strategies](https://space.bilibili.com/1027462501/channel/collectiondetail?sid=114283){:target="_blank"} and [Speech modification techniques](https://space.bilibili.com/1027462501/channel/collectiondetail?sid=465846){:target="_blank"} (translation)
 * [Childhood stuttering and parents](https://space.bilibili.com/1027462501/channel/collectiondetail?sid=465846){:target="_blank"} (translation)
@@ -22,7 +22,7 @@ In Mainland China, PWS and parents of children who stutter are eager to access s
 
 ### World Stuttering Awareness Day online events and Workshops
 
-We collaborates with SLPs and researchers to co-host World Stuttering Awareness Day online events, featuring knowledge sharing, open-mic sessions, and roundtable discussions with PWS and SLPs. StammerTalk also actively organize online workshops on professional stuttering treatment topics and host Q&A sessions.
+We collaborates with SLPs and researchers to co-host World Stuttering Awareness Day online events, featuring knowledge sharing, open-mic sessions, and roundtable discussions with PWS and SLPs. GCAA also actively organize online workshops on professional stuttering treatment topics and host Q&A sessions.
 
 * [World Stuttering Awareness Day online activities](https://space.bilibili.com/1027462501/channel/collectiondetail?sid=835214){:target="_blank"}
 * Workshop [Interpretation of the OASES stuttering assessment](https://space.bilibili.com/1027462501/channel/collectiondetail?sid=819064){:target="_blank"}
@@ -32,7 +32,7 @@ We collaborates with SLPs and researchers to co-host World Stuttering Awareness 
 
 #### AISHELL-Stammertalk Mandarin stuttered speech dataset
 
-StammerTalk is leading the research project to create the first Mandarin stuttered speech dataset, AISHELL-Stammertalk. We believe this dataset will significantly advance research and development in Mandarin stuttered speech technologies, such as Automatic Speech Recognition (ASR) and Stuttering Event Detection (SED), as well as contribute to speech pathology research.
+GCAA is leading the research project to create the first Mandarin stuttered speech dataset, AISHELL-Stammertalk. We believe this dataset will significantly advance research and development in Mandarin stuttered speech technologies, such as Automatic Speech Recognition (ASR) and Stuttering Event Detection (SED), as well as contribute to speech pathology research.
 
 We work closely with [AISHELL](https://aishelltech.com/){:target="_blank"} and [AImpower.org](https://aimpower.org/){:target="_blank"} to ensure the ethical and compliant collection of data. Our goal is to provide high-quality, well-annotated data suitable for various research topics.
 
