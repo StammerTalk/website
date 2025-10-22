@@ -50,12 +50,13 @@
       {{ content }}
 
       </section>
-      <!--<footer>
-        {% if site.github.is_project_page %}
-        <p>This website is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>-->
+      <footer>
+        <p><small>&copy; {{ 'now' | date: "%Y" }} Global Chinese Stuttering Association<br>
+        501(c)(3) Nonprofit Organization
+        {% if site.ein %}<br>Tax ID (EIN): {{ site.ein }}{% endif %}
+        {% if site.address %}<br>{{ site.address }}{% endif %}
+        </small></p>
+      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% include google-analytics-enhanced.html %}

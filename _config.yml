@@ -22,10 +22,14 @@ title: Global Chinese Stuttering Association | Stammertalk
 email: kouchishuo@gmail.com
 logo: /assets/img/gcsa_stammertalk_logo.png
 description: >-
-  Podcast, online resources, self-help groups and research about stuttering in Mandarin and English.
-  The Global Chinese Stuttering Association is a U.S. 501(c)(3) nonprofit organization.
-tagline_line1: "Podcast, online resources, self-help groups and research about stuttering in Mandarin and English."
-tagline_line2: "The Global Chinese Stuttering Association is a U.S. 501(c)(3) nonprofit organization."
+  The Global Chinese Stuttering Association (GCSA) is a U.S. 501(c)(3) nonprofit organization
+  dedicated to supporting the stuttering community worldwide through evidence-based resources, 
+  podcasts, self-help groups, and research in Mandarin and English. We empower people who stutter 
+  through education, advocacy, and community connection.
+tagline_line1: "The Global Chinese Stuttering Association (GCSA) is a U.S. 501(c)(3) nonprofit organization dedicated to supporting the stuttering community worldwide through evidence-based resources, podcasts, self-help groups, and research in Mandarin and English."
+tagline_line2: "We empower people who stutter through education, advocacy, and community connection."
+ein: "99-4329485"
+address: "East Lansing, MI 48823"
 domain: stammertalk.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stammertalk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
