@@ -5,4 +5,4 @@ title: Contact
 
 ## Contact
 
-Email: kouchishuo \<at\> gmail.com
+Email: contact \<at\> globalchinesestuttering.org
